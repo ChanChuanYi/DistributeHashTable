@@ -1,8 +1,9 @@
-=====================================================================
+# Project Title
+
 This is an implementation of Chord by Chuan-Yi Chan (cchan88@ucsc.edu)
 and Bo-Syun Liao (boliao@ucsc.edu) for the final project of UCSC 
 CMPE 252, Computer Network.
-=====================================================================
+
 
 A node variable is declared with it ID as follow:
 
