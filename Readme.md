@@ -22,7 +22,7 @@ The program also prints the finger table of current node.
         
 2.
 ```
-    uint8_t Node::find(uint8_t key):
+uint8_t Node::find(uint8_t key):
 ```     
    Current node will find the node responsible for such key.
    Return Value:
